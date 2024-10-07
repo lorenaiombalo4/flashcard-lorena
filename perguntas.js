@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'História',
     'Em que ano Getúlio Vargas morreu?',
-    'A capital da França é Paris'
+    '24 de agosto de 1954'
 )
 
 criaCartao(

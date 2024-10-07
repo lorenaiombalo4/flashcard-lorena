@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Português',
+    'Para que serve a vírgula?',
+    'Para separar elementos de uma oração, mas também orações de um só período. '
 )
 
 criaCartao(

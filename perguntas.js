@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'What is your favorite color?',
-    'Oi em ingles é HI (RAI)'
+    'My favorite color is blue!'
 )

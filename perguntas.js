@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'Programação.',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'O que é uma váriavel?',
+    'É o nome utilizado para definir um ou mais valores que são manipulados pelos programas durante a sua operação.'
 )
 
 criaCartao(

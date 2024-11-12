@@ -4,7 +4,7 @@
 :root {
     --text-color: #000000;
     --card-front-color: #be094f;
-    --card-back-color: #ff2929;
+    --card-back-color: #000000;
 }
 
 body {
